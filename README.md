@@ -26,8 +26,8 @@ You can view our changelog [here.](CHANGELOG.md)
 ## Link Hosting
 ### Local Deployment
 ```
-git clone https://github.com/dogenetwork/doge-unblocker
-cd doge-unblocker
+git clone https://github.com/dogenetwork/v4
+cd v4
 npm install
 npm start
 ```
